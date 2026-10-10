@@ -139,5 +139,4 @@ Attempt 4/5 -> Enter your guess: 69
 🏆 You won the game!
 ```
 
----
 
