@@ -141,5 +141,3 @@ Attempt 4/5 -> Enter your guess: 69
 
 ---
 
-## 👤 Author
-Developed by **Sorathiya Dhruvin** ([@Parth9100](https://github.com/Parth9100))
